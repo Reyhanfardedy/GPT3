@@ -2,6 +2,9 @@
 
 ### [Live Site](https://gpt3-jsm.com/)
 
+## Preview
+
+A web application that uses OpenAI's GPT-3 model to generate modern and stylish
 ![Modern UI/UX GPT-3](https://i.ibb.co/4d20KSb/Screenshot-2024-01-03-200543.png)
 ![Modern UI/UX GPT-3](https://i.ibb.co/GRWTDRG/Screenshot-2024-01-03-200616.png)
 ![Modern UI/UX GPT-3](https://i.ibb.co/T1Y62Hj/Screenshot-2024-01-03-200630.png)
