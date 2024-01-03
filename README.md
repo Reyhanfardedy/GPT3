@@ -1,3 +1,23 @@
+# Modern UI/UX GPT-3
+
+### [Live Site](https://gpt3-jsm.com/)
+
+![Modern UI/UX GPT-3](https://i.ibb.co/4d20KSb/Screenshot-2024-01-03-200543.png) (https://i.ibb.co/GRWTDRG/Screenshot-2024-01-03-200616.png) (https://i.ibb.co/T1Y62Hj/Screenshot-2024-01-03-200630.png) (https://i.ibb.co/H76MYMK/Screenshot-2024-01-03-200646.png) (https://i.ibb.co/mJC9Mqz/Screenshot-2024-01-03-200658.png) (https://i.ibb.co/VgPy48v/Screenshot-2024-01-03-200711.png) (https://i.ibb.co/XDb4fMy/Screenshot-2024-01-03-200720.png)
+
+## Introduction
+
+This is a code repository for the corresponding video tutorial.
+
+You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+
+- React Functional components and their reusability
+- React file and folder structure
+- Fundamental CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness covering almost devices
+- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
