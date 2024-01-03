@@ -2,7 +2,13 @@
 
 ### [Live Site](https://gpt3-jsm.com/)
 
-![Modern UI/UX GPT-3](https://i.ibb.co/4d20KSb/Screenshot-2024-01-03-200543.png) (https://i.ibb.co/GRWTDRG/Screenshot-2024-01-03-200616.png) (https://i.ibb.co/T1Y62Hj/Screenshot-2024-01-03-200630.png) (https://i.ibb.co/H76MYMK/Screenshot-2024-01-03-200646.png) (https://i.ibb.co/mJC9Mqz/Screenshot-2024-01-03-200658.png) (https://i.ibb.co/VgPy48v/Screenshot-2024-01-03-200711.png) (https://i.ibb.co/XDb4fMy/Screenshot-2024-01-03-200720.png)
+![Modern UI/UX GPT-3](https://i.ibb.co/4d20KSb/Screenshot-2024-01-03-200543.png)
+![Modern UI/UX GPT-3](https://i.ibb.co/GRWTDRG/Screenshot-2024-01-03-200616.png)
+![Modern UI/UX GPT-3](https://i.ibb.co/T1Y62Hj/Screenshot-2024-01-03-200630.png)
+![Modern UI/UX GPT-3](https://i.ibb.co/H76MYMK/Screenshot-2024-01-03-200646.png)
+![Modern UI/UX GPT-3](https://i.ibb.co/mJC9Mqz/Screenshot-2024-01-03-200658.png)
+![Modern UI/UX GPT-3](https://i.ibb.co/VgPy48v/Screenshot-2024-01-03-200711.png)
+![Modern UI/UX GPT-3](https://i.ibb.co/XDb4fMy/Screenshot-2024-01-03-200720.png)
 
 ## Introduction
 
